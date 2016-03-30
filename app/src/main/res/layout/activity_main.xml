@@ -8,13 +8,12 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.sigudim.meditationbarkama15.MainActivity"
-    android:background="#bfddf9"
-    android:padding="10dp">
+    android:background="#bfddf9">
 
     <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageButton"
+        android:id="@+id/button1"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:src="@drawable/meditation15" />
